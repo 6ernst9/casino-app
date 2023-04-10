@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable-v24/ic_saphire.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/betbtn.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/bottomnav.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/bottomnav_icons.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/card_layout.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/cardback_layout.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/custom_progressbar.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/finance_background.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/form_back.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/gradient_btn.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/ic_about.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/ic_add.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/ic_diamond.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/ic_eye.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/ic_launcher_background.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/ic_saphire.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/menu_tabs.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/poker_button.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/pokerbalance_background.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/pot_background.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/slotmachine_back.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/slotmachine_downback.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/slotmachine_light.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/slotmachine_light2.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/slotmachine_upback.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/spinbtn.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/table_layout.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/themecolor2_circles.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/themecolor3_circles.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/themecolor_circels.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/themecolor_circles.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/drawable/title_lines.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/layout/activity_black_jack.xml" value="0.264" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/layout/activity_log_in.xml" value="0.2" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/layout/activity_poker.xml" value="0.264" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/layout/activity_screen.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/layout/activity_sign_up.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/layout/activity_slot_machine.xml" value="0.2" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/layout/buy_dialog.xml" value="0.4" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/layout/exitmenu.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/layout/fragment_account.xml" value="0.264" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/layout/fragment_play.xml" value="0.264" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/layout/fragment_shop.xml" value="0.1381726457399103" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/layout/fragment_stats.xml" value="0.3680649526387009" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/layout/logout_dialog.xml" value="0.2099187687045746" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/layout/raise_dialog.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/layout/transaction_dialog.xml" value="0.2099187687045746" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/layout/wrongemail_dialog.xml" value="0.2099187687045746" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/menu/bottom_menu.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.159" />
+        <entry key="..\:/Users/rerns/Documents/cod/Casino/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.159" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

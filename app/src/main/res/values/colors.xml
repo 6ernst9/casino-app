@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name = "black_theme">#1b1f3c</color>
+    <color name = "dark_theme">#0F132B</color>
+    <color name="secondary_black_theme">#383e6e</color>
+    <color name="thirdly_black_theme">#363c6c</color>
+    <color name="forthly_black_theme">#2b3159</color>
+    <color name="grey_theme">#bdbdbd</color>
+    <color name="blue_theme">#02b4e2</color>
+    <color name="pink_theme">#fc2a89</color>
+    <color name="grey">#AEAEAE</color>
+    <color name="yellow">#fcb52b</color>
+    <color name="nav_color">#252B45</color>
+    <color name="green">#4be191</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name = "homecard_blue">#2f37e9</color>
+    <color name = "theme_purple">#794ce3</color>
+    <color name = "homecard_purple">#9d4be2</color>
+    <color name = "homecard_green">#4ace9a</color>
+    <color name="homecard_red">#e14b89</color>
+    <color name="homecard_orange">#e7955b</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_theme_light">#45bae1</color>
+    <color name="transparent">#00000000</color>
+</resources>
